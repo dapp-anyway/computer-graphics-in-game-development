@@ -63,5 +63,5 @@ SpacesInCStyleCastParentheses: false
 SpacesInContainerLiterals: false
 SpacesInParentheses: false
 SpacesInSquareBrackets: false
-TabWidth: 4
 UseTab: ForContinuationAndIndentation
+TabWidth: 4
